@@ -41,7 +41,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * paralel process conection
+ * parallelizable connection processing
  * @author Ignacio Rivera
  * @version 0.0.1
  */
